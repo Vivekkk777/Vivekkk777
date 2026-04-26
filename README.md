@@ -1,16 +1,35 @@
-## Hi there 👋
+Hi 👋, I’m Vivek
 
-<!--
-**Vivekkk777/Vivekkk777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer (Learning Stage)
+🚀 Interested in AI + Web Development + Real-world Systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+HTML | CSS | JavaScript | Node.js (if used) | MongoDB (if used)
+
+---
+
+## 🚑 Featured Project
+Smart Emergency Hospital Locator  
+- Detects user location  
+- Finds nearest hospitals using distance calculation  
+- Displays hospitals in simple UI  
+- (Add live link here)
+
+---
+
+## 📚 Currently Learning
+- Full Stack Development
+- DSA (Problem Solving)
+- Real-world API integration
+
+---
+
+## 🎯 Goal
+To get a Software Engineering Internship
+
+---
+
+## 📫 Contact
+Add email or LinkedIn here
