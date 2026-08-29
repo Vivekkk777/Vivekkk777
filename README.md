@@ -47,14 +47,6 @@
 
 ---
 
-## 📈 GitHub Statistics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vivekkk777&show_icons=true&theme=tokyonight&hide_border=true" alt="Vivek's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekkk777&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Connect With Me
 - 💼 **LinkedIn**: [linkedin.com/in/vivek-vardhan-reddy-kolanu-b9a878363](https://www.linkedin.com/in/vivek-vardhan-reddy-kolanu-b9a878363/)
 - 📧 **Email**: [vivekvardhanreddykolanu7@gmail.com](mailto:vivekvardhanreddykolanu7@gmail.com)
